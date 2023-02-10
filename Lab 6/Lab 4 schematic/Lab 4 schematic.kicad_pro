@@ -239,7 +239,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Lab_4.kicad_pro",
+    "filename": "Lab 4 schematic.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -316,6 +316,11 @@
     "subpart_first_id": 65,
     "subpart_id_separator": 0
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "19caf23b-64d4-4b74-8c94-ab8155e5fb1f",
+      ""
+    ]
+  ],
   "text_variables": {}
 }
